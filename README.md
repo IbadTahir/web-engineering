@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 EduPlatform - Educational Platform with Code Editor
 
 A comprehensive educational platform that combines learning resources, collaborative coding, and AI-powered evaluations. Built with React, Node.js, Python, and Docker.
@@ -245,3 +246,6 @@ If you encounter any issues:
   },
 })
 ```
+=======
+# web-engineering
+>>>>>>> 78ecd84a0790685085f647e4afca07a8efc60150
