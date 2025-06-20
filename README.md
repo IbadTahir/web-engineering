@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# 🎓 EduPlatform - Educational Platform with Code Editor
+# 🎓 Ed - Editron with Code Editor
 
-A comprehensive educational platform that combines learning resources, collaborative coding, and AI-powered evaluations. Built with React, Node.js, Python, and Docker.
+A comprehensive Editron that combines learning resources, collaborative coding, and AI-powered evaluations. Built with React, Node.js, Python, and Docker.
 
 ![Platform Preview](https://img.shields.io/badge/Platform-Educational-blue)
 ![Frontend](https://img.shields.io/badge/Frontend-React%2018-61dafb)
@@ -63,7 +63,7 @@ A comprehensive educational platform that combines learning resources, collabora
 - **Database**: SQLite for user data
 - **Security**: bcrypt password hashing, rate limiting
 
-#### Api3 - Educational Platform API (Port 8000)
+#### Api3 - Editron API (Port 8000)
 - **Tech Stack**: Python, FastAPI, SQLAlchemy
 - **Features**: Books, videos, AI evaluations
 - **Database**: SQLite for educational content
@@ -128,7 +128,7 @@ cd Api2
 npm run dev          # Start with auto-reload
 npm run build        # Compile TypeScript
 
-# Educational Platform API (Api3)
+# Editron API (Api3)
 cd Api3
 uvicorn app.main:app --reload  # Start with auto-reload
 ```
